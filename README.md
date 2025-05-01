@@ -5,7 +5,7 @@
 |-----------|------|--------------|
 | **`mini_project_1.ipynb`** | News-feed scraping & basic EDA | Raw JSON in S3 |
 | **`mini_project_2.ipynb`** | Vector-store builder (⇢ Pinecone) | `cus635 / Team_1` namespace, 1 024-dim vectors |
-| **`mini_project_3.ipynb`** | RAG + LangGraph ReAct agent | Colab demo that answers Finance-news questions |
+| **`mini_project_3.ipynb`** | RAG + LangGraph React agent | Colab demo that answers Finance-news questions |
 
 ---
 
